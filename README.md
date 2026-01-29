@@ -178,7 +178,7 @@ Dataset: Open Power System Data for Germany (2015-2020)
 - Focus: Business intelligence and data-driven decision making
 - Location: India → Germany (job seeking)
 
-**Contact:** [Your LinkedIn / Email]
+**Contact:** Email- rajbaliofficial@gmail.com
 
 ---
 
