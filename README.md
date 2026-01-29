@@ -192,7 +192,6 @@ This project is open source and available under the MIT License.
 
 - Open Power System Data for providing comprehensive European energy datasets
 - German Federal Network Agency (Bundesnetzagentur) for market transparency
-- Anthropic's Claude for mentorship throughout project development
 
 ---
 
