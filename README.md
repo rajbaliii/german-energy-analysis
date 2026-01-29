@@ -176,7 +176,7 @@ Dataset: Open Power System Data for Germany (2015-2020)
 **Rajbali Kumar**
 - Software Developer transitioning to Data Analytics
 - Focus: Business intelligence and data-driven decision making
-- Location: India → Germany (job seeking)
+- Location: India
 
 **Contact:** Email- rajbaliofficial@gmail.com
 
